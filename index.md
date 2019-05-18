@@ -4,7 +4,7 @@
 Play for d5, c5 to open up the Queen to go to b6
 ![Black plays for d5](images/d5Setup.png)
 
-Qb3 is the most popular reply, but c4 gaining space, forcing a queen trade and opening up the rook on a3 is good
+Qb3 is the most popular reply, but c4 gaining space, forcing a queen trade and opening up the rook on a8 is good
 
 ![Qb6 and c5](images/Qb6AndC5.png)
 
